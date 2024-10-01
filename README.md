@@ -5,11 +5,11 @@
 ## Run Locally
 Clone the project
 ```bash
-https://github.com/Luyanda078/Online_Recipe
+https://github.com/Luyanda078/ShoppingListApp
 ```
 Go to the project directory
 ```bash
-  cd onlinerecipe
+  cd ShoppingListApp
 ```
 Install dependencies
 ```bash
@@ -20,4 +20,4 @@ Start the react server
   npm run dev
 ```
 ## Tech Stack
-**Client:** React JS, HTML5, JavaScript, CSS3, Taiwind_Vite
+**Client:** React JS, HTML5, JavaScript, CSS3, Taiwind_Vite,Redux
